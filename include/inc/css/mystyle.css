@@ -1,0 +1,19 @@
+/* =========[custom button of datatables]========= */
+
+button.dt-button.buttons-excel.buttons-html5 {
+    background-color: #209e62 !important;
+    color: #fff;
+}
+
+button.dt-button.buttons-pdf.buttons-html5 {
+    background-color: #f72015 !important;
+    color: #fff;
+}
+
+button.dt-button.buttons-print {
+    background-color: #4b4b4b !important;
+    color: #fff;
+}
+
+
+/* ================================================= */
